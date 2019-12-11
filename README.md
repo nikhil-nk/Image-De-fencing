@@ -1,0 +1,2 @@
+# Image-De-fencing
+Implementation and experimentation of the paper  “Fully Automated Image De-fencing using Conditional GANs”.https://www.researchgate.net/publication/335258292_Fully_Automated_Image_De-fencing_using_Conditional_Generative_Adversarial_Networks
